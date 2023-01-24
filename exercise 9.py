@@ -1,1 +1,4 @@
-variable1, variable2 = variable2, variable1
+a = 12
+b = 'Hello'
+a, b = b, a
+print(a, b)
